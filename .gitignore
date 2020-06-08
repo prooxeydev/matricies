@@ -1,0 +1,5 @@
+main
+matricies
+*.so
+*.dylib
+*.dll
